@@ -1,8 +1,8 @@
 name: flutter_hk_ui
 description: A new Flutter package.
 version: 0.0.1
-author: hkrt
-homepage:
+author: hkrt <xiaobin_zhen@hotmail.com>
+homepage: https://github.com/zhenxiaobin/flutter_hk_ui
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
