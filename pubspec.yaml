@@ -1,7 +1,7 @@
 name: flutter_hk_ui
-description: A new Flutter package.
+description: This package is a commonly used control for packaging parts, third-party libraries. In order to unify the UI style of all products of the company, reduce the maintenance cost in the later period.
 version: 0.0.1
-author: hkrt <xiaobin_zhen@hotmail.com>
+author: hkrt <xiaobinzhen@gmail.com>
 homepage: https://github.com/zhenxiaobin/flutter_hk_ui
 
 environment:
